@@ -10,7 +10,7 @@ public  class  test1{
    }
 
    public  void m5(){
-     //completed
+     System.out.println("m5() method completed ");
    }
 
  }
