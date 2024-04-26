@@ -21,7 +21,14 @@ public  class  test1{
    
    }
 
- }
+  public   void  m7(){
+      int x= 10;
+      int y=x*x;
+     System.out.println("square ::"+y);
+     sysout("m7 completed task456");
+   } 
+
+ 
    public void  m4(){
     //completed
     //123  456
