@@ -10,10 +10,13 @@ public  class  test1{
    }
 
    public  void m5(){
+
      int   a=10;
      int   b=20;
      int   c=a+b;
     System.out.println(" from dev1::sum is ::"+c);
+     System.out.println("m5() method completed ");
+     System.out.println("end of m5() method sir");
    }
 
  }
