@@ -26,4 +26,29 @@ public class test1 {
       System.out.println("Sucess");
    }
 
+   public void m6() {
+      int x = 10;
+      int y = x * x * x;
+      System.out.println("cube ::" + y);
+
+   }
+
+   public void m7() {
+      int x = 10;
+      int y = x * x;
+      System.out.println("square ::" + y);
+      sysout("m7 completed task456");
+   }
+
+   public void m4() {
+      // completed
+      // 123 456
+      // completed
+   }
+
+   public void m123() {
+      System.out.println("Working on bug 123");
+      System.out.println("Sucess of bug 123");
+   }
+
 }
