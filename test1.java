@@ -20,13 +20,19 @@ public  class  test1{
      System.out.println("m5() method concluded");
    
    }
-
- }
    public void  m4(){
     //completed
     //123  456
     //completed  
   }
 
+  public void m7() {
+    System.out.println("Completing high priority task 456");
+    System.out.println("Completed task 466");
+  }
 
  }
+   
+
+
+ 
