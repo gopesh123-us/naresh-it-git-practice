@@ -20,8 +20,23 @@ public  class  test1{
      System.out.println("m5() method concluded");
    
    }
+ 
+    public   void  m6(){
+        int x= 10;
+      int y=x*x*x;
+     System.out.println("cube ::"+y);
 
- }
+     }
+
+
+  public   void  m7(){
+      int x= 10;
+      int y=x*x;
+     System.out.println("square ::"+y);
+     sysout("m7 completed task456");
+   } 
+
+ 
    public void  m4(){
     //completed
     //123  456
