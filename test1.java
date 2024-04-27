@@ -70,4 +70,9 @@ public class test1 {
       System.out.println("Sucess of bug 123");
    }
 
+   public void m124() {
+      System.out.println("Working on bug 124");
+      System.out.println("Sucess of bug 124");
+   }
+
 }
